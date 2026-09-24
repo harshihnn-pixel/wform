@@ -1,0 +1,9 @@
+{
+  "name": "loan-portal",
+  "version": "1.0.0",
+  "description": "Loan application website using Supabase for accounts (with email confirmation), data and document storage.",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
